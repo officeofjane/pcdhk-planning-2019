@@ -25,4 +25,9 @@
     
 - Sponsor Logos
 
-http://rednoise.org/ftp/droste.jpg
+<div align="left">
+  <a href="http://droste.hk/">
+    <img src="http://rednoise.org/ftp/droste.jpg" width="150px"/>
+  </a>
+</div>
+
