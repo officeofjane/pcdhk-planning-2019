@@ -12,7 +12,7 @@
   - _Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
   - _An Intro to Machine Learning_ with Tomas Laurenzo (p5.js and ml5.js)
   - _The Field Guide to Hacking_ with Michelle Poon
-  - _VJ Performance_ with Michelle Poon
+  - _VJ Performance_ with Max Hattler
 - Schedules
 - Sponsors
     - [Droste](http://droste.hk/)
