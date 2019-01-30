@@ -1,6 +1,6 @@
-# pcdhk-planning-2019
+# PCD-HK Planning 2019
 
-Planning docs for Processing Community Day Hong Kong 2019. 
+## Planning docs for Processing Community Day Hong Kong 2019. 
 
 **Date**: Saturday February 16, 2019. 
 
@@ -10,7 +10,7 @@ Planning docs for Processing Community Day Hong Kong 2019.
 - Sessions
 - Schedules
 - Sponsors
-    - Droste
+    - [Droste](http://droste.hk/)
     - CityBrew? [DH]
     - Gweilo? [JP]
     
@@ -24,3 +24,5 @@ Planning docs for Processing Community Day Hong Kong 2019.
     - **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
     
 - Sponsor Logos
+
+http://rednoise.org/ftp/droste.jpg
