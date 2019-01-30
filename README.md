@@ -27,6 +27,7 @@
 
 <div align="left">
   <a href="http://droste.hk/">
+    <img src=" http://droste.hk/img/logo/droste_logo.pngg" width="350px"/><br>
     <img src="http://rednoise.org/ftp/droste.jpg" width="350px"/>
   </a>
 </div>
