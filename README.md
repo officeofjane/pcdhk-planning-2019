@@ -3,7 +3,8 @@
 Planning docs for Processing Community Day Hong Kong 2019. 
 
 **Date**: Saturday February 16, 2019. 
-**Location**: Spectrum Saloon. Unit 11C, Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
+
+**Location**: Droste's Spectrum Saloon. Unit 11C, Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
 
 - About PCD
 - Sessions
@@ -12,6 +13,7 @@ Planning docs for Processing Community Day Hong Kong 2019.
     - Droste
     - CityBrew? [DH]
     - Gweilo? [JP]
+    
 - Speaker/Organiser Bios
     - **Jane Pong** is amazing
     - **Daniel Howe** is ok la
@@ -20,3 +22,5 @@ Planning docs for Processing Community Day Hong Kong 2019.
     - **Mystery Meat** will do an intro to p5.js
     - **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
     - **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
+    
+- Sponsor Logos
