@@ -19,7 +19,7 @@
     - **Daniel Howe** is ok la
     - **Michell Poon** will speak for 15 minutes only
     - **Max Hattler** will do a performance
-    - **Mystery Meat** will do an intro to p5.js
+    - **?Mystery Meat?** will do an intro to p5.js
     - **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
     - **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
     
@@ -27,7 +27,7 @@
 
 <div align="left">
   <a href="http://droste.hk/">
-    <img src="http://rednoise.org/ftp/droste.jpg" width="150px"/>
+    <img src="http://rednoise.org/ftp/droste.jpg" width="350px"/>
   </a>
 </div>
 
