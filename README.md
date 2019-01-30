@@ -13,4 +13,4 @@ Planning docs for Processing Community Day Hong Kong 2019.
     - CityBrew? [DH]
     - Gweilo? [JP]
 - Speaker bios
-    - Tomás Laurenzo is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
+    - **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
