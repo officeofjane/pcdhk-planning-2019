@@ -4,7 +4,8 @@
 
 **Date**: Saturday February 16, 2019. 
 
-**Location**: Droste's Spectrum Saloon. Unit 11C, Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
+**Location**: Droste's Spectrum Saloon. Unit 11C
+  Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
 
 - About PCD
 - Sessions
