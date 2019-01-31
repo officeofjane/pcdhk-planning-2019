@@ -8,7 +8,7 @@
     Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
 
 ### About PCD
-PCD HK is part of an annual global event started by a group at MIT in the US in 2017, to bring together a worldwide community of artists, coders, educators and students.
+Processing Community Day HK is a one-day event to bring together a community of artists, coders, educators and students. It is part of an annual global event started by a group at MIT in the US in 2017.
 
 ### Sessions
 - _An Intro to Creative Coding with p5.js_ with ???
