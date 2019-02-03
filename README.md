@@ -4,8 +4,9 @@
 
 **Date**: Saturday February 16, 2019. 
 
-**Location**: Droste's Spectrum Saloon. Unit 11C
-    Golden Sun Centre, 59-67 Bonham Strand West, Sheung Wan.
+**Location**: Droste's Spectrum Saloon\
+Unit 11C, Golden Sun Centre\
+59-67 Bonham Strand West, Sheung Wan
 
 ### About PCD
 Processing Community Day HK is a one-day event to bring together a community of artists, coders, educators and students. It is part of an annual global event started by a group at MIT in the US in 2017.
