@@ -19,7 +19,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 ### Speaker/Organiser Bios
 
-**Jason Li** is a design gOD
+**Jason Li** is a dESIGN gOD
 
 **Jane Pong** will do an intro to p5.js 
 
