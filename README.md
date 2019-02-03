@@ -16,7 +16,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - _The Next Level: Getting Generative with p5.js_ with Daniel Howe
 - _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
 - _The Field Guide to Hacking_ with Michelle Poon
-- _VJ Performance_ with Max Hattler
+- _Sound/VJ Performance_ with Max Hattler & ??
 
 ### Speaker/Organiser Bios
 
