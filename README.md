@@ -25,7 +25,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Jane Pong** will do an intro to p5.js 
 
-**Daniel Howe** is will do intermediate p5.js
+**Daniel Howe** will do intermediate p5.js
 
 **Michelle Poon** will speak for 10 minutes on her Dim Sum book
 
