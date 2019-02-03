@@ -23,8 +23,9 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Jane Pong** is ~~amazing~~ also just ok
 
-**Michelle Poon** will speak for 15 minutes only
+**Jason Li** is a design god
 
+**Michelle Poon** will speak for 15 minutes only
 
 **Max Hattler** will do a performance
 
@@ -44,7 +45,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 14:45. Michelle Poon talk (15 min)
 - 15:00. Machine learning (75 min)
 - 16:15. Long break (45 min)
-- 17:00. Arduino (75 min)
+- 17:00. Processing+Arduino (75 min)
 - 18:15. Performance (45 min?)
 - 19:00. Wrap up
 
@@ -53,7 +54,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 12:00. Welcome and introduction
 - 12:15. Beginners intro to p5.js (75 min)
 - 13:30. Break (30 min)
-- 14:00. Arduino (75 min)
+- 14:00. Processing+Arduino (75 min)
 - 15:15. Michelle Poon talk (15 min)
 - 16:00. Break (30 min)
 - 16:30. Machine learning (75 min)
