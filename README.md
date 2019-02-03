@@ -2,8 +2,8 @@
 
 ## Processing Community Day Hong Kong 2019. 
 
-**Date/Place**: Saturday February 16, 2019\
-Droste's Spectrum Saloon\
+**Date**: Saturday February 16, 2019\
+**Location**: Droste's Spectrum Saloon\
 Unit 11C, Golden Sun Centre\
 59-67 Bonham Strand West, Sheung Wan
 
