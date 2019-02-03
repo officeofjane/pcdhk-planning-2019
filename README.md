@@ -65,7 +65,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 7 hours, start at 12pm.
 - 12:00. Welcome and introduction
 - 12:15. Beginners intro to p5.js (45 min)
-- 13:00. Arduino (75 min)
+- 13:00. Processing+Arduino (75 min)
 - 14:15. Break (45 min, in case people didnt' have lunch)
 - 15:00. Michelle Poon talk (15 min)
 - 15.15. Intermediate p5.js (60 min)
@@ -74,6 +74,18 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 18:15. Performance (30 min)
 - 18:45. Wrap up
 
+#### Plan D
+7 hours, start at 12pm.
+- 12:00. Welcome and introduction
+- 12:15. Beginners intro to p5.js (45 min)
+- 13:00. Michelle Poon talk (15 min)
+- 13:15. Processing+Arduino (60 min)
+- 14:15. Break+Coffee+Snacks (45 min)
+- 15.15. Intermediate p5.js (60 min)
+- 16:15. Machine learning (75 min)
+- 17:30. Break+Beer (30 min)
+- 18:00. Performance (45 min)
+- 18:45. Wrap-up+Beer+Networking (10-90 min)
 
 ### Sponsors
 - [Droste](http://droste.hk/)
