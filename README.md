@@ -19,17 +19,15 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 ### Speaker/Organiser Bios
 
-**Daniel Howe** is ok la
+**Jason Li** is a design gOD
 
-**Jane Pong** is ~~amazing~~ also just ok
+**Jane Pong** will do an intro to p5.js 
 
-**Jason Li** is a design god
+**Daniel Howe** is will do intermediate p5.js
 
-**Michelle Poon** will speak for 15 minutes only
+**Michelle Poon** will speak for 10 minutes on her Dim Sum book
 
-**Max Hattler** will do a performance
-
-**?Mystery Meat?** will do an intro to p5.js
+**Max Hattler** will do a 45-minute performance
 
 **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
 
