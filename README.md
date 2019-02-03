@@ -62,8 +62,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 ### Sponsors
 - [Droste](http://droste.hk/)
-- CityBrew? [DH]
-- Gweilo? [JP] 
+- [CitiBrew](https://www.facebook.com/citibrewhk/)
 
 #### Sponsor Logos
 
