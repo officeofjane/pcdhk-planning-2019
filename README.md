@@ -11,9 +11,10 @@
 Processing Community Day HK is a one-day event to bring together a community of artists, coders, educators and students. It is part of an annual global event started by a group at MIT in the US in 2017.
 
 ### Sessions
-- _An Intro to Creative Coding with p5.js_ with ???
+- _An Intro to Creative Coding with p5.js_ with Jane Pong
 - _Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
-- _An Intro to Machine Learning_ with Tomas Laurenzo (p5.js and ml5.js)
+- _The Next Level: Getting Generative with p5.js_ with Daniel Howe
+- _An Intro to Machine Learning/ml5.js_ with Tomas Laurenzo (p5.js and ml5.js)
 - _The Field Guide to Hacking_ with Michelle Poon
 - _VJ Performance_ with Max Hattler
 
