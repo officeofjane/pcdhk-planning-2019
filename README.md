@@ -81,11 +81,11 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 13:00. Michelle Poon talk (15 min)
 - 13:15. Processing+Arduino (60 min)
 - 14:15. Break+Coffee+Snacks (45 min)
-- 15.15. Intermediate p5.js (60 min)
-- 16:15. Machine learning (75 min)
-- 17:30. Break+Beer (30 min)
-- 18:00. Performance (45 min)
-- 18:45. Wrap-up+Beer+Networking (10-90 min)
+- 15.00. Intermediate p5.js (60 min)
+- 16:00. Machine learning (75 min)
+- 17:15. Break+Beer (30 min)
+- 17:45. Performance (45 min)
+- 18:00. Wrap-up+Beer+Networking (10-60 min)
 
 ### Sponsors
 - [Droste](http://droste.hk/)
