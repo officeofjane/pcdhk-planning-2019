@@ -50,7 +50,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 17:00. Machine learning (75 min)
 - 18:15. Break+Beer (15 min)
 - 18:30. Performance (45 min)
-- 19:15. Wrap-up+Beer+Networking (10-∞ min)
+- 19:15. Wrap-up+Beer+Community! (10-∞ min)
 
 #### Plan A
 6 hours, start at 1pm. 
