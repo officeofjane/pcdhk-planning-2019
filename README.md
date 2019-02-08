@@ -46,7 +46,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 14:20. Processing+Arduino (60 min)
 - 15:20. Break+Coffee+Snacks (30 min)
 - 15.50. Intermediate p5.js (60 min)
-- 16:50. Break (5 min)
+- 16:50. Break (5-10 min)
 - 17:00. Machine learning (75 min)
 - 18:15. Break+Beer (15 min)
 - 18:30. Performance (45 min)
