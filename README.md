@@ -17,7 +17,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - _The Next Level: Getting Generative with p5.js_ with Daniel Howe
 - _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
 - _The Field Guide to Hacking_ with Michelle Poon
-- _Sound/VJ Performance_ with Max Hattler & ??
+- _Sound/VJ Performance_ with Max Hattler & Steve Saunders
 
 ### Speaker/Organiser Bios
 
@@ -25,7 +25,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Jane Pong** will do an spine-tingling intro to p5.js 
 
-**Daniel Howe** will KO intermediate p5.js
+**Daniel Howe** will KO generative p5.js
 
 **Michelle Poon** will speak for 10 minutes on her Dim Sum book
 
