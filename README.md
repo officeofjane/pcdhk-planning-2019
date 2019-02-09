@@ -23,11 +23,11 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Jason Li** is a dESIGN gOD
 
-**Jane Pong** will do an spine-tingling intro to p5.js 
+**Jane Pong** is a designer, coder, and data visualisation journalist. She has wokred at Reuters, SCMP, and the Finanical Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
 
-**Daniel Howe** will KO generative p5.js
+**Daniel Howe** is an artist and critical technologist whose work focuses on the relationships between networks, language, and politics. He currently teaches at the School of Creative Media in Hong Kong. 
 
-**Michelle Poon** will speak for 10 minutes on her Dim Sum book
+**Michelle Poon** works across the fields of engineering and interactive design. She is a hacker, lecturer, creative technologist, and co-owner of Hong Kong’s first and only hackerspace, Dim Sum Labs.
 
 **Max Hattler** works with animation and audiovisual performance to explore relationships between abstraction and figuration, aesthetics and politics, sound and image, and precision and improvisation.
 
