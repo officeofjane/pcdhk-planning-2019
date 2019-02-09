@@ -17,7 +17,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - _The Next Level: Getting Generative with p5.js_ with Daniel Howe
 - _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
 - _The Field Guide to Hacking_ with Michelle Poon
-- _Sound/VJ Performance_ with Max Hattler & Steve Saunders
+- _Sound/VJ Performance_ with Max Hattler & 3x3x3
 
 ### Speaker/Organiser Bios
 
@@ -29,7 +29,9 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Michelle Poon** will speak for 10 minutes on her Dim Sum book
 
-**Max Hattler** & **Steve Saunders** will do a 45-minute performance with live circuit bending and visuals
+**Max Hattler** works with animation and audiovisual performance to explore relationships between abstraction and figuration, aesthetics and politics, sound and image, and precision and improvisation.
+
+**3x3x3** is a Hong Kong based sculptor and sound artist. He performs on a modular synth system with hand wired circuitry derived from 1970’s analogue synths, housed in bespoke cases.
 
 **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
 
