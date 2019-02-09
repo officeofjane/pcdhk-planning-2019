@@ -21,7 +21,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 ### Speaker/Organiser Bios
 
-**Jason Li** is a dESIGN gOD
+**Jason Li** is an independent designer and cartoonist working at the intersection of storytelling, technology and social change. He singled-handledly created the visual design for PCDHK using Processing.
 
 **Jane Pong** is a designer, coder, and data visualisation journalist. She has wokred at Reuters, SCMP, and the Finanical Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
 
