@@ -8,9 +8,6 @@
 Unit 11C, Golden Sun Centre\
 59-67 Bonham Strand West, Sheung Wan
 
-### About PCD
-Processing Community Day HK is a one-day event to bring together a community of artists, coders, educators and students. It is part of an annual global event started by a group at MIT in the US in 2017.
-
 ### Sessions
 - _An Intro to Creative Coding with p5.js_ with Jane Pong
 - _Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
@@ -18,6 +15,20 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
 - _The Field Guide to Hacking_ with Michelle Poon
 - _Sound/VJ Performance_ with Max Hattler & 3x3x3
+
+### Schedule
+- 13:00. Welcome and introduction
+- 13:15. Beginners intro to p5.js (45 min)
+- 14:00. Break (5 min)
+- 14:05. Michelle Poon talk (15 min)
+- 14:20. Processing+Arduino (60 min)
+- 15:20. Break+Coffee+Snacks (30 min)
+- 15.50. Intermediate p5.js (60 min)
+- 16:50. Break (5-10 min)
+- 17:00. Machine learning (75 min)
+- 18:15. Break+Beer (15 min)
+- 18:30. Performance (45 min)
+- 19:15. Wrap-up+Beer+Community! (10-∞ min)
 
 ### Speaker/Organiser Bios
 
@@ -36,20 +47,6 @@ Processing Community Day HK is a one-day event to bring together a community of 
 **Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
 
 **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
-
-### Schedule
-- 13:00. Welcome and introduction
-- 13:15. Beginners intro to p5.js (45 min)
-- 14:00. Break (5 min)
-- 14:05. Michelle Poon talk (15 min)
-- 14:20. Processing+Arduino (60 min)
-- 15:20. Break+Coffee+Snacks (30 min)
-- 15.50. Intermediate p5.js (60 min)
-- 16:50. Break (5-10 min)
-- 17:00. Machine learning (75 min)
-- 18:15. Break+Beer (15 min)
-- 18:30. Performance (45 min)
-- 19:15. Wrap-up+Beer+Community! (10-∞ min)
 
 <!--
 #### Plan A
