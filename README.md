@@ -37,9 +37,7 @@ Processing Community Day HK is a one-day event to bring together a community of 
 
 **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
 
-### Schedules
-
-#### Schedule
+### Schedule
 - 13:00. Welcome and introduction
 - 13:15. Beginners intro to p5.js (45 min)
 - 14:00. Break (5 min)
@@ -52,7 +50,8 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 18:15. Break+Beer (15 min)
 - 18:30. Performance (45 min)
 - 19:15. Wrap-up+Beer+Community! (10-∞ min)
-/*
+
+<!--
 #### Plan A
 6 hours, start at 1pm. 
 - 13:00. Welcome and introduction (15 min)
@@ -102,7 +101,8 @@ Processing Community Day HK is a one-day event to bring together a community of 
 - 17:15. Break+Beer (30 min)
 - 17:45. Performance (45 min)
 - 18:00. Wrap-up+Beer+Networking (10-60 min)
-*/
+-->
+
 ### Sponsors
 - [Droste](http://droste.hk/)
 - [CitiBrew](https://www.facebook.com/citibrewhk/)
