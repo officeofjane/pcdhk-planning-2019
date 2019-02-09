@@ -48,6 +48,15 @@ Unit 11C, Golden Sun Centre\
 
 **Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
 
+#### Links
+
+https://laurenzo.net/
+https://officeofjane.com/
+https://rednoise.org/daniel/
+http://www.maxhattler.com/
+https://www.evilagnivv.com/
+https://generationt.asia/people/michelle-poon
+
 <!--
 #### Plan A
 6 hours, start at 1pm. 
