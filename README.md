@@ -8,13 +8,27 @@
 Unit 11C, Golden Sun Centre\
 59-67 Bonham Strand West, Sheung Wan
 
+[Eventbrite tickets](https://www.eventbrite.com/e/processing-community-day-hong-kong-tickets-55638660732)
+
 ### Sessions
-- _An Intro to Creative Coding with p5.js_ with Jane Pong
-- _Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
-- _The Next Level: Getting Generative with p5.js_ with Daniel Howe
-- _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
-- _The Field Guide to Hacking_ with Michelle Poon
-- _Sound/VJ Performance_ with Max Hattler & 3x3x3
+
+_An Intro to Creative Coding with p5.js_ with Jane Pong
+- [p5.js web editor](https://editor.p5js.org/)
+- [p5.js reference](https://p5js.org/reference/)
+
+_The Field Guide to Hacking_ with Michelle Poon
+- [TFGTH website](https://www.tfgth.com/)
+
+_Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
+- [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+
+_The Next Level: Getting Generative with p5.js_ with Daniel Howe
+- [Presentation slides + code](https://github.com/dhowe/GetGen)
+
+_Simple Machine Learning with ml5.js_ with Tomas Laurenzo
+- [Presentation slides]()
+
+_Sound/VJ Performance_ with Max Hattler & 3x3x3
 
 ### Schedule
 - 13:00. Welcome and introduction
@@ -32,30 +46,21 @@ Unit 11C, Golden Sun Centre\
 
 ### Speaker/Organiser Bios
 
-**Jason Li** is an independent designer and cartoonist working at the intersection of storytelling, technology and social change. He singled-handledly created the visual design for PCDHK using Processing.
+[Max Hattler](http://www.maxhattler.com/) works with animation and audiovisual performance to explore relationships between abstraction and figuration, aesthetics and politics, sound and image, and precision and improvisation.
 
-**Jane Pong** is a designer, coder, and data visualisation journalist. She has wokred at Reuters, SCMP, and the Finanical Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
+[Daniel Howe](https://rednoise.org/daniel/) is an artist and critical technologist whose work focuses on the relationships between networks, language, and politics. He currently teaches at the School of Creative Media in Hong Kong. 
 
-**Daniel Howe** is an artist and critical technologist whose work focuses on the relationships between networks, language, and politics. He currently teaches at the School of Creative Media in Hong Kong. 
+[Tomás Laurenzo](https://laurenzo.net/) is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
 
-**Michelle Poon** works across the fields of engineering and interactive design. She is a hacker, lecturer, creative technologist, and co-owner of Hong Kong’s first and only hackerspace, Dim Sum Labs.
+[Jason Li](https://www.hongkonggong.com/) is an independent designer and cartoonist working at the intersection of storytelling, technology and social change. He singled-handledly created the visual design for PCDHK using Processing.
 
-**Max Hattler** works with animation and audiovisual performance to explore relationships between abstraction and figuration, aesthetics and politics, sound and image, and precision and improvisation.
+[Cheuk Wing Nam](https://www.evilagnivv.com/) (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
 
-**3x3x3** is a Hong Kong based sculptor and sound artist. He performs on a modular synth system with hand wired circuitry derived from 1970’s analogue synths, housed in bespoke cases.
+[Jane Pong](https://officeofjane.com/) is a designer coder, and data visualisation journalist. She has wokred at Reuters, SCMP, and the Financial Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
 
-**Tomás Laurenzo** is an artist and researcher, working with both physical and digital media to explore the artistic construction of meaning and its relationship with representation, power, and politics.
+[Michelle Poon](https://generationt.asia/people/michelle-poon) works across the fields of engineering and interactive design. She is a hacker, lecturer, creative technologist, and co-owner of Hong Kong’s first and only hackerspace, Dim Sum Labs.
 
-**Cheuk Wing Nam** (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
-
-#### Links
-
-https://laurenzo.net/
-https://officeofjane.com/
-https://rednoise.org/daniel/
-http://www.maxhattler.com/
-https://www.evilagnivv.com/
-https://generationt.asia/people/michelle-poon
+[3x3x3](http://x333x.tumblr.com/) is a Hong Kong based sculptor and sound artist. He performs on a modular synth system with hand wired circuitry derived from 1970’s analogue synths, housed in bespoke cases.
 
 <!--
 #### Plan A
