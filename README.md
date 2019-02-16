@@ -1,6 +1,6 @@
 # PCD-HK Planning 2019
 
-## Processing Community Day Hong Kong 2019. 
+## Processing Community Day Hong Kong 2019
 
 **Date**: Saturday February 16, 2019
 
@@ -8,25 +8,26 @@
 Unit 11C, Golden Sun Centre\
 59-67 Bonham Strand West, Sheung Wan
 
+[PCDHK website](https://rednoise.org/pcdhk/)\
 [Eventbrite tickets](https://www.eventbrite.com/e/processing-community-day-hong-kong-tickets-55638660732)
 
 ### Sessions
 
-_An Intro to Creative Coding with p5.js_ with Jane Pong
-- [p5.js web editor](https://editor.p5js.org/)
-- [p5.js reference](https://p5js.org/reference/)
+_An Intro to Creative Coding with p5.js_ with Jane Pong\
+[p5.js web editor](https://editor.p5js.org/) | [p5.js reference](https://p5js.org/reference/)
 
-_The Field Guide to Hacking_ with Michelle Poon
-- [TFGTH website](https://www.tfgth.com/)
+_The Field Guide to Hacking_ with Michelle Poon\
+[TFGTH website](https://www.tfgth.com/)
 
-_Getting Physical: Processing and Arduino_ with Cheuk Wing Nam
-- [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+_Getting Physical: Processing and Arduino_ with Cheuk Wing Nam\
+[Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
 
-_The Next Level: Getting Generative with p5.js_ with Daniel Howe
-- [Presentation slides + code](https://github.com/dhowe/GetGen)
+_The Next Level: Getting Generative with p5.js_ with Daniel Howe\
+[Presentation slides + code](https://github.com/dhowe/GetGen)
 
 _Simple Machine Learning with ml5.js_ with Tomas Laurenzo
-- [Presentation slides]()
+\
+[Presentation slides + resources](http://files.laurenzo.net/pcd/)
 
 _Sound/VJ Performance_ with Max Hattler & 3x3x3
 
@@ -56,7 +57,7 @@ _Sound/VJ Performance_ with Max Hattler & 3x3x3
 
 [Cheuk Wing Nam](https://www.evilagnivv.com/) (also known as Chang May Wing Joy) is an interdisciplinary artist who explores new ways of mixing sound and other media using modern technology.
 
-[Jane Pong](https://officeofjane.com/) is a designer coder, and data visualisation journalist. She has wokred at Reuters, SCMP, and the Financial Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
+[Jane Pong](https://officeofjane.com/) is a designer coder, and data visualisation journalist. She has worked at Reuters, SCMP, and the Financial Times. She currently teaches at the Journalism and Media Studies Centre of The University of Hong Kong.
 
 [Michelle Poon](https://generationt.asia/people/michelle-poon) works across the fields of engineering and interactive design. She is a hacker, lecturer, creative technologist, and co-owner of Hong Kong’s first and only hackerspace, Dim Sum Labs.
 
